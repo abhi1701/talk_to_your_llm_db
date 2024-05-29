@@ -130,7 +130,7 @@ pip install -r requirements.txt
 ```plaintext
 .
 ├── app.py               # Streamlit app code
-├── main.py              # Main script to run the LLM and database integration
+├── llm.py               # Main script with explanation to the LLM and database integration
 ├── requirements.txt     # List of required Python packages
 └── README.md            # Project README file
 ```
