@@ -23,12 +23,6 @@ This project demonstrates an end-to-end solution that integrates a language mode
 
 ## 📂 Project Structure
 
-```plaintext
-.
-├── app.py               # Streamlit app code
-├── main.py              # Main script to run the LLM and database integration
-├── requirements.txt     # List of required Python packages
-└── README.md            # Project README file
 
 
 ## 🚀 Getting Started
@@ -131,4 +125,12 @@ To install all the dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+```
+
+```plaintext
+.
+├── app.py               # Streamlit app code
+├── main.py              # Main script to run the LLM and database integration
+├── requirements.txt     # List of required Python packages
+└── README.md            # Project README file
 ```
